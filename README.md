@@ -6,9 +6,12 @@ This project demonstrates my ability to deploy a **production-ready containerize
 
 ## 🏗️ Architecture Diagram
 ![Complete AWS Architecture](images/architechture-diagram.png)
+The diagram above shows all the AWS components I built for this project.
+
 ## ⚙️ AWS Infrastructure Components
 ### 🌐 Networking Layer
 ![VPC with Subnets](images/vpc-subnets-rtables.png)
+
 
 I created a highly available network architecture:
 - **VPC**: 10.0.0.0/16 spanning 2 Availability Zones
@@ -74,6 +77,7 @@ I created a highly available network architecture:
 ## 📬 Contact
 - **GitHub**: [@Mohamedzaakii](https://github.com/Mohamedzaakii)
 - **LinkedIn**: [mohamed-zaaki](https://linkedin.com/in/mohamed-zaaki)
+
 
 
 
