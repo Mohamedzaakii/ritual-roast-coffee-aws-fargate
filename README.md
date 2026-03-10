@@ -4,6 +4,8 @@
 ## 📋 Project Overview
 This project demonstrates my ability to deploy a **production-ready containerized application** on **AWS ECS Fargate**. I built the complete infrastructure, deployed the application, and then responsibly **destroyed all resources** to avoid ongoing costs.
 
+## 🏗️ Architecture Diagram
+![Complete AWS Architecture](images/architechture-diagram.png)
 ## ⚙️ AWS Infrastructure Components
 ### 🌐 Networking Layer
 ![VPC with Subnets](images/vpc-subnets-rtables.png)
@@ -72,6 +74,7 @@ I created a highly available network architecture:
 ## 📬 Contact
 - **GitHub**: [@Mohamedzaakii](https://github.com/Mohamedzaakii)
 - **LinkedIn**: [mohamed-zaaki](https://linkedin.com/in/mohamed-zaaki)
+
 
 
 
